@@ -1,0 +1,1 @@
+# go_linker_set_variable_example
